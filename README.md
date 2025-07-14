@@ -79,9 +79,9 @@ Output: next 30 days’ predicted closing prices
 
 📸 Screenshots
 🔷 Web UI
-image-1.png
+![alt text](image-3.png)
 🔷 Postman API Test
-image.png
+![alt text](image-2.png)
 
 🔧 Tools & Tech Stack
 Layer	Tech
