@@ -82,7 +82,8 @@ Output: next 30 days’ predicted closing prices
 ![alt text](image-3.png)
 🔷 Postman API Test
 ![alt text](image-2.png)
-
+🔷 project Snapshot
+![alt text](image.png)
 🔧 Tools & Tech Stack
 Layer	Tech
 Backend	Python, FastAPI, Uvicorn
