@@ -27,7 +27,7 @@ project/
 
 ### 🔹 1. Backend Setup (FastAPI)
 
-```bash
+
 git clone https://github.com/harshvardhan119/HCLinternshipproject.git
 # Create virtual environment (optional)
 python -m venv venv
