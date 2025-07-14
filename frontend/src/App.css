@@ -1,0 +1,65 @@
+/* src/App.css */
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f4f7fa;
+}
+
+.app-container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.header h1 {
+  font-size: 2.4rem;
+  margin-bottom: 10px;
+  color: #2d3436;
+}
+
+.header p {
+  font-size: 1rem;
+  color: #636e72;
+}
+
+.input-section {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+textarea {
+  width: 100%;
+  padding: 15px;
+  font-size: 16px;
+  border: 1px solid #b2bec3;
+  border-radius: 8px;
+  resize: vertical;
+}
+
+button {
+  margin-top: 15px;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: 600;
+  background-color: #0984e3;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+button:hover {
+  background-color: #006bb3;
+}
+
+.chart-section {
+  margin-top: 40px;
+}
+
+.chart-section h2 {
+  margin-bottom: 20px;
+  color: #2d3436;
+}

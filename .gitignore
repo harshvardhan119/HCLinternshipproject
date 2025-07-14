@@ -1,0 +1,39 @@
+
+---
+
+## ✅ `.gitignore` (Python + Node.js + Common Artifacts)
+
+Place this at the root of your project:
+
+```gitignore
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+venv/
+.env
+.DS_Store
+
+# FastAPI/Uvicorn logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files
+*.h5
+*.pkl
+*.joblib
+
+# Node (React)
+frontend/node_modules/
+frontend/.env
+frontend/build/
+frontend/.DS_Store
+
+# VSCode
+.vscode/
+
+# OS
+Thumbs.db
